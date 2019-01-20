@@ -32,7 +32,7 @@ Exception in thread "main" com.oracle.svm.core.jdk.UnsupportedFeatureError: Acce
 	at gtest.Main$Companion.getToolResults(Main.kt)
 	at gtest.Main$Companion.main(Main.kt:48)
 	at gtest.Main.main(Main.kt)
-    ```
+```
 
-    Tested on graalvm-ce-1.0.0-rc11/
+Tested on graalvm-ce-1.0.0-rc11/
     
